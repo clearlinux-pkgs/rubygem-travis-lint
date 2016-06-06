@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-05-06 18:22:16.312224
+# {'=1.7.0', 'development', '~>1.2'}
+watchurl=https://rubygems.org/gems/travis-lint/versions/(1\.7\.0)
